@@ -1,4 +1,4 @@
-const {UserData,Grades} = require('./async-data');
+const {UserData,Grades} = require('./data/async-data');
 
 
 const getUser =(id)=>{
